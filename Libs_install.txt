@@ -7,3 +7,11 @@ sudo python setup.py install
 git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
 cd Adafruit_Python_GPIO
 sudo python3 setup.py install 
+
+
+MCP3008 AD Converter Library
+
+wget https://github.com/doceme/py-spidev/archive/master.zip 
+unzip master.zip
+cd py-spidev-master
+sudo python setup.py install
