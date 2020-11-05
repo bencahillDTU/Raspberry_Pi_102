@@ -6,7 +6,7 @@ sudo python setup.py install
 
 git clone https://github.com/adafruit/Adafruit_Python_GPIO.git
 cd Adafruit_Python_GPIO
-sudo python3 setup.py install 
+sudo python setup.py install 
 
 
 MCP3008 AD Converter Library
